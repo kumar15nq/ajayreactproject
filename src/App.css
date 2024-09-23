@@ -1,0 +1,19 @@
+.navb {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  border: 2px solid green;
+  height: 100px;
+}
+
+.button {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+  width: 150px;
+  height: 40px;
+}
+.mainData {
+  display: flex !important;
+}
